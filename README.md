@@ -8,9 +8,7 @@ This project performs an Exploratory Data Analysis (EDA) on a heart disease data
 - [EDA Steps](#eda-steps)
 - [Visualizations](#visualizations)
 - [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Key Insights](#key-insights)
-- [Conclusion](#conclusion)
+
 
 ## Project Overview
 
